@@ -25,10 +25,10 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.21.2020::11:57:18</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.21.2020::11:57:18</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.24.2020::8:44:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.24.2020::8:44:58</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">4.21.2020::11:57:18</weakCGTime>
+			<weakCGTime type="a">4.24.2020::8:44:58</weakCGTime>
 			<strongCGTime type="a">2.18.2020::10:38:10</strongCGTime>
 			<_defaultComposite type="s">GUID d937e1b5-0932-4582-89d3-d242e12b8f34</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -184,8 +184,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.21.2020::11:57:18</_modifiedTime>
-			<_lastModifiedTime type="a">4.21.2020::11:57:18</_lastModifiedTime>
+			<_modifiedTime type="a">4.24.2020::8:44:58</_modifiedTime>
+			<_lastModifiedTime type="a">4.24.2020::8:44:58</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -349,7 +349,7 @@
 			<m_pParent type="s">GUID c1e7bf02-0316-4773-8f0b-62821ba36ccc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">i_One_Wire_Protocol</m_str>
+					<m_str type="a">One_Wire_Protocol</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -566,7 +566,7 @@
 				</Subjects>
 			</IPropertyContainer>
 			</_properties>
-			<_name type="a">i_One_Wire_Protocol</_name>
+			<_name type="a">One_Wire_Protocol</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
@@ -581,7 +581,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">2.18.2020::10:59:55</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.24.2020::8:44:58</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -596,10 +596,10 @@
 Every operation first performs a reset, then selects the slave and finally sends the command.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">2.18.2020::10:59:55</_modifiedTime>
+			<_modifiedTime type="a">4.24.2020::8:44:58</_modifiedTime>
 			<_lastID type="a">2</_lastID>
-			<weakCGTime type="a">2.18.2020::10:59:55</weakCGTime>
-			<strongCGTime type="a">2.18.2020::10:39:6</strongCGTime>
+			<weakCGTime type="a">4.24.2020::8:44:58</weakCGTime>
+			<strongCGTime type="a">4.24.2020::8:44:58</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
